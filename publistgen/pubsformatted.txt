@@ -1,0 +1,147 @@
+<br>
+<p>Jan 2013 - BMC Genomics</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23350875">A colorectal cancer genome-wide association study in a Spanish cohort identifies two variants associated with colorectal cancer risk at 1p33 and 8p12.</a>
+<br>
+<p>Jan 2013 - Gastroenterology</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/22999960">Much of the genetic risk of colorectal cancer is likely to be mediated through susceptibility to adenomas.</a>
+<br>
+<p>Dec 2012 - Nat. Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23263490">Germline mutations affecting the proofreading domains of POLE and POLD1 predispose to colorectal adenomas and carcinomas.</a>
+<br>
+<p>Nov 2012 - Carcinogenesis</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/23161572">BMP2/BMP4 colorectal cancer susceptibility loci in northern and southern European populations.</a>
+<br>
+<p>Jul 2012 - Nat. Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/22634755">Common variation near CDKN1A, POLD3 and SHROOM2 influences colorectal cancer risk.</a>
+<br>
+<p>May 2012 - Gut</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/22490517">Cumulative impact of common genetic variants and other risk factors on colorectal cancer risk in 42 103 individuals.</a>
+<br>
+<p>Mar 2012 - J. Med. Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/">Thyroid cancer susceptibility polymorphisms: confirmation of loci on chromosomes 9q22 and 14q13, validation of a recessive 8q24 locus and failure to replicate a locus on 5q24.</a>
+<br>
+<p>Mar 2012 - Mutagenesis</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/">COGENT (COlorectal cancer GENeTics) revisited.</a>
+<br>
+<p>Feb 2012 - Hum. Mol. Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/">Refinement of the associations between risk of colorectal cancer and polymorphisms on chromosomes 1q41 and 12q13.13.</a>
+<br>
+<p>Feb 2012 - Gut</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/">TERC polymorphisms are associated both with susceptibility to colorectal cancer and with longer telomeres.</a>
+<br>
+<p>Sep 2011 - Br. J. Cancer</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/">A two-phase case-control study for colorectal cancer genetic susceptibility: candidate genes from chromosomal regions 9q22 and 3q22.</a>
+<br>
+<p>2011 - BMC Cancer</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/">Case-control study for colorectal cancer genetic susceptibility in EPICOLON: previously identified variants and mucins.</a>
+<br>
+<p>Jul 2011 - Hum. Mol. Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/">Fine-mapping of colorectal cancer susceptibility loci at 8q23.3, 16q22.1 and 19q13.11: refinement of association signals and use of in silico analysis to suggest functional variation and unexpected candidate target genes.</a>
+<br>
+<p>Jun 2011 - PLoS Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/">Multiple common susceptibility variants near BMP pathway loci GREM1, BMP4, and BMP2 explain part of the missing heritability of colorectal cancer.</a>
+<br>
+<p>Feb 2011 - Genet. Med.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/21233718">Novel MLH1 duplication identified in Colombian families with Lynch syndrome.</a>
+<br>
+<p>Jan 2011 - Br. J. Cancer</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/">Replication study of SNP associations for colorectal cancer in Hong Kong Chinese.</a>
+<br>
+<p>Dec 2010 - Gastroenterology</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/21036128">Germline epigenetic silencing of the tumor suppressor gene PTPRJ in early-onset familial colorectal cancer.</a>
+<br>
+<p>Nov 2010 - Nat. Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/20972440">Meta-analysis of three genome-wide association studies identifies susceptibility loci for colorectal cancer at 1q41, 3q26.2, 12q13.13 and 20q13.33.</a>
+<br>
+<p>Jun 2010 - Curr. Opin. Genet. Dev.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/20564784">Challenges in the identification and use of rare disease-associated predisposition variants.</a>
+<br>
+<p>Jun 2010 - Curr. Opin. Genet. Dev.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/20456939">Genetic dissection of intermediate phenotypes as a way to discover novel cancer susceptibility alleles.</a>
+<br>
+<p>May 2010 - Curr. Opin. Genet. Dev.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/20570130">Challenges in the identification and use of rare disease-associated predisposition variants.</a>
+<br>
+<p>2010 - PLoS ONE</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/">Evaluation of association of HNF1B variants with diverse cancers: collaborative analysis of data from 19 genome-wide association studies.</a>
+<br>
+<p>Apr 2010 - Proc. Natl. Acad. Sci. U.S.A.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/">Comprehensive assessment of variation at the transforming growth factor beta type 1 receptor locus and colorectal cancer predisposition.</a>
+<br>
+<p>Jan 2010 - Br. J. Cancer</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/">COGENT (COlorectal cancer GENeTics): an international consortium to study the role of polymorphic variation on the risk of colorectal cancer.</a>
+<br>
+<p>Sep 2009 - Cancer Res.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/19723657">Colorectal cancer risk is not associated with increased levels of homozygosity in a population from the United Kingdom.</a>
+<br>
+<p>Aug 2009 - Nat. Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/19561604">The common colorectal cancer predisposition SNP rs6983267 at chromosome 8q24 confers potential to enhanced Wnt signaling.</a>
+<br>
+<p>May 2009 - Hum. Mol. Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/19264763">Common variation at the adiponectin locus is not associated with colorectal cancer risk in the UK.</a>
+<br>
+<p>Mar 2009 - Clin. Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/19250387">Two novel LKB1 mutations in Colombian Peutz-Jeghers syndrome patients.</a>
+<br>
+<p>Dec 2008 - Eur. J. Hum. Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/18628789">Deciphering the genetics of hereditary non-syndromic colorectal cancer.</a>
+<br>
+<p>Dec 2008 - Hum. Mol. Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/18753146">Refinement of the basis and impact of common 11q23.1 variation to the risk of developing colorectal cancer.</a>
+<br>
+<p>Dec 2008 - Nat. Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/">Meta-analysis of genome-wide association data identifies four new susceptibility loci for colorectal cancer.</a>
+<br>
+<p>May 2008 - Nat. Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/18372905">A genome-wide association study identifies colorectal cancer susceptibility loci on chromosomes 10p14 and 8q23.3.</a>
+<br>
+<p>May 2008 - Nat. Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/">Genome-wide association scan identifies a colorectal cancer susceptibility locus on 11q23 and replicates risk loci at 8q24 and 18q21.</a>
+<br>
+<p>Jan 2008 - Nat. Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/18084292">Common genetic variants at the CRAC1 (HMPS) locus on chromosome 15q13.3 influence colorectal cancer risk.</a>
+<br>
+<p>Dec 2007 - J. Gastroenterol. Hepatol.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/17573831">A family with juvenile polyposis linked to the BMPR1A locus: cryptic mutation or closely linked gene?</a>
+<br>
+<p>Nov 2007 - Nat. Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/17934461">A genome-wide association study shows that common alleles of SMAD7 influence colorectal cancer risk.</a>
+<br>
+<p>Aug 2007 - J. Pathol.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/17503413">Molecular classification and genetic pathways in hyperplastic polyposis syndrome.</a>
+<br>
+<p>Aug 2007 - Nat. Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/17618284">A genome-wide association scan of tag SNPs identifies a susceptibility variant for colorectal cancer at 8q24.21.</a>
+<br>
+<p>Feb 2007 - Gastroenterology</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/17258725">Homozygous PMS2 deletion causes a severe colorectal cancer and multiple adenoma phenotype without extraintestinal cancer.</a>
+<br>
+<p>Oct 2006 - Hum. Mol. Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/16923799">Evidence for a colorectal cancer susceptibility locus on chromosome 3q21-q24 from a high-density SNP genome-wide linkage scan.</a>
+<br>
+<p>Aug 2006 - J. Clin. Endocrinol. Metab.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/16757530">Adult leydig cell tumors of the testis caused by germline fumarate hydratase mutations.</a>
+<br>
+<p>2006 - BMC Cancer</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/">EPHB2 germline variants in patients with colorectal cancer or hyperplastic polyposis.</a>
+<br>
+<p>May 2006 - Cancer Res.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/16707420">Evidence of linkage to chromosome 9q22.33 in colorectal cancer kindreds from the United Kingdom.</a>
+<br>
+<p>May 2005 - Oncogene</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/15750630">Mutations of the PU.1 Ets domain are specifically associated with murine radiation-induced, but not human therapy-related, acute myeloid leukaemia.</a>
+<br>
+<p>Nov 2003 - Genetics</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/">Abundant mtDNA diversity and ancestral admixture in Colombian criollo cattle (Bos taurus).</a>
+<br>
+<p>May 2003 - Hum. Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/">Genetic demography of Antioquia (Colombia) and the Central Valley of Costa Rica.</a>
+<br>
+<p>Feb 2001 - Neurosci. Lett.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/">A novel Cys212Tyr founder mutation in parkin and allelic heterogeneity of juvenile Parkinsonism in a population from North West Colombia.</a>
+<br>
+<p>Nov 2000 - Am. J. Hum. Genet.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/">Strong Amerind/white sex bias and a possible Sephardic contribution among the founders of a population in northwest Colombia.</a>
+<br>
+<p>Oct 2000 - Neurosci. Lett.</p>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/">An association study of bipolar mood disorder (type I) with the 5-HTTLPR serotonin transporter polymorphism in a human population isolate from Colombia.</a>
